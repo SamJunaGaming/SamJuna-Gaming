@@ -41,7 +41,7 @@ margin-left: 200px;
 font-family: 'Cinzel Decorative', cursive;
 display: inline-block;
 list-style: none;
-font-size: 18px;
+font-size: 16px;
 color: orange;
 font-weight: bold;
 line-height: 100px;
@@ -55,7 +55,7 @@ color: white
 
 .text{
 width: 100%;
-margin-top: 400px;
+margin-top: 450px;
 text-transform: uppercase;
 text-align: center;
 color: white;
